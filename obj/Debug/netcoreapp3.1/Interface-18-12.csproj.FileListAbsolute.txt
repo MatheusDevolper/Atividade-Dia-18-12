@@ -1,0 +1,26 @@
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\bin\Debug\netcoreapp3.1\Interface-18-12.exe
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\bin\Debug\netcoreapp3.1\Interface-18-12.deps.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\bin\Debug\netcoreapp3.1\Interface-18-12.runtimeconfig.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\bin\Debug\netcoreapp3.1\Interface-18-12.runtimeconfig.dev.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\bin\Debug\netcoreapp3.1\Interface-18-12.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\bin\Debug\netcoreapp3.1\Interface-18-12.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.csprojAssemblyReference.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.AssemblyInfoInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.AssemblyInfo.cs
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.csproj.CoreCompileInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Interface-18-12\obj\Debug\netcoreapp3.1\Interface-18-12.genruntimeconfig.cache
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\bin\Debug\netcoreapp3.1\Interface-18-12.exe
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\bin\Debug\netcoreapp3.1\Interface-18-12.deps.json
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\bin\Debug\netcoreapp3.1\Interface-18-12.runtimeconfig.json
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\bin\Debug\netcoreapp3.1\Interface-18-12.runtimeconfig.dev.json
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\bin\Debug\netcoreapp3.1\Interface-18-12.dll
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\bin\Debug\netcoreapp3.1\Interface-18-12.pdb
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.csprojAssemblyReference.cache
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.AssemblyInfoInputs.cache
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.AssemblyInfo.cs
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.csproj.CoreCompileInputs.cache
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.dll
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.pdb
+C:\Users\Telma\Desktop\Atividade Senai\Atividade 18 12\obj\Debug\netcoreapp3.1\Interface-18-12.genruntimeconfig.cache
